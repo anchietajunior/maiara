@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "maiara-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Maiara Theme for VSCode
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## This is a simple and elegant vscode theme optmized for Ruby, JS and React
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is currently in development
+
+### For more information you can send me an e-mail
 
 **Enjoy!**
