@@ -1,0 +1,21 @@
+{
+    "name": "maiara-theme",
+    "displayName": "Maiara theme",
+    "description": "A simple, beautiful and elegant theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Maiara theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Maiara theme-color-theme.json"
+            }
+        ]
+    }
+}
